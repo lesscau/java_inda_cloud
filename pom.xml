@@ -29,5 +29,6 @@
         <module>pc</module>
         <module>po</module>
         <module>eureka-server</module>
+        <module>api-gateway</module>
     </modules>
 </project>
